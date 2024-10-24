@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0%;
+    font-family: Arial, sans-serif;
+}
+
+.parallax-section {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(223, 233, 223);
+    text-shadow: 4px 4px 4px #7a469f;
+
+}
+
+#section1 {
+   background-image: url(https://img.freepik.com/premium-photo/space-background-with-planets-stars_68067-1969.jpg);
+   background-attachment: fixed;
+   color: #f2dbdb;
+   background-position: center;
+   
+}
+
+
+
